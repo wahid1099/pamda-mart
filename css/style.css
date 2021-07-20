@@ -1,0 +1,15 @@
+/* 
+font section */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.pandabg {
+  background-color: #feeae9;
+}
+.catogeries img {
+  height: 90px;
+  width: 69px;
+}
